@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "java",
+      "backend",
+      "coding",
+      "software development"
+    ],
+    "job_families": [
+      "technology",
+      "developer",
+      "engineer"
+    ],
+    "description": "measuring practical Java 8 programming knowledge for software developer roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8/"
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "test_type": "K",
+    "level": "Entry",
+    "skills": [
+      "java",
+      "oop",
+      "coding",
+      "programming basics"
+    ],
+    "job_families": [
+      "technology",
+      "graduate",
+      "developer"
+    ],
+    "description": "screening entry-level Java candidates on core programming concepts.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java/"
+  },
+  {
+    "name": "Java 8 Coding - Entry Level",
+    "test_type": "K",
+    "level": "Entry",
+    "skills": [
+      "java",
+      "coding",
+      "algorithms"
+    ],
+    "job_families": [
+      "technology",
+      "developer"
+    ],
+    "description": "checking hands-on Java coding ability for junior software roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-coding-entry-level/"
+  },
+  {
+    "name": "Python 3 (New)",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "python",
+      "coding",
+      "software development"
+    ],
+    "job_families": [
+      "technology",
+      "developer",
+      "data"
+    ],
+    "description": "assessing Python programming knowledge for development and data-adjacent roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-3/"
+  },
+  {
+    "name": "JavaScript (New)",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "javascript",
+      "frontend",
+      "web",
+      "coding"
+    ],
+    "job_families": [
+      "technology",
+      "developer",
+      "frontend"
+    ],
+    "description": "measuring JavaScript knowledge for web and front-end development.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript/"
+  },
+  {
+    "name": "SQL Server (New)",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "sql",
+      "database",
+      "queries",
+      "data"
+    ],
+    "job_families": [
+      "technology",
+      "data",
+      "analyst"
+    ],
+    "description": "evaluating SQL and database query knowledge.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server/"
+  },
+  {
+    "name": "C# (New)",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "c#",
+      ".net",
+      "coding",
+      "software development"
+    ],
+    "job_families": [
+      "technology",
+      "developer",
+      "engineer"
+    ],
+    "description": "assessing C# and .NET development knowledge.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/csharp/"
+  },
+  {
+    "name": "OPQ32r",
+    "test_type": "P",
+    "level": "All",
+    "skills": [
+      "personality",
+      "behavior",
+      "work style",
+      "culture fit"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "management"
+    ],
+    "description": "profiling workplace personality preferences and behavioral style.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ",
+    "test_type": "P",
+    "level": "All",
+    "skills": [
+      "personality",
+      "motivation",
+      "work behavior",
+      "team fit"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "leadership"
+    ],
+    "description": "understanding personality traits relevant to job behavior and team fit.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq/"
+  },
+  {
+    "name": "Verify G+ General Ability",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "cognitive",
+      "reasoning",
+      "problem solving",
+      "ability"
+    ],
+    "job_families": [
+      "all",
+      "graduate",
+      "professional"
+    ],
+    "description": "measuring general cognitive ability across reasoning areas.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-gplus-general-ability/"
+  },
+  {
+    "name": "General Mental Ability",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "cognitive",
+      "aptitude",
+      "reasoning",
+      "problem solving"
+    ],
+    "job_families": [
+      "all",
+      "graduate",
+      "professional"
+    ],
+    "description": "assessing broad mental ability for general selection decisions.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-mental-ability/"
+  },
+  {
+    "name": "Numerical Reasoning",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "numerical",
+      "reasoning",
+      "data",
+      "analytics"
+    ],
+    "job_families": [
+      "finance",
+      "analyst",
+      "graduate"
+    ],
+    "description": "measuring ability to interpret numerical information and business data.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning/"
+  },
+  {
+    "name": "Verbal Reasoning",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "verbal",
+      "reasoning",
+      "communication",
+      "comprehension"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "graduate"
+    ],
+    "description": "evaluating comprehension and reasoning with written information.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning/"
+  },
+  {
+    "name": "Deductive Reasoning",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "deductive",
+      "logic",
+      "reasoning",
+      "problem solving"
+    ],
+    "job_families": [
+      "technology",
+      "analyst",
+      "professional"
+    ],
+    "description": "testing logical reasoning and rule-based problem solving.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/deductive-reasoning/"
+  },
+  {
+    "name": "Inductive Reasoning",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "inductive",
+      "logic",
+      "patterns",
+      "reasoning"
+    ],
+    "job_families": [
+      "technology",
+      "analyst",
+      "graduate"
+    ],
+    "description": "measuring pattern recognition and abstract reasoning.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/inductive-reasoning/"
+  },
+  {
+    "name": "Motivation Questionnaire MQ",
+    "test_type": "P",
+    "level": "All",
+    "skills": [
+      "motivation",
+      "drivers",
+      "work preferences"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "management"
+    ],
+    "description": "identifying workplace motivators and role-fit drivers.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/"
+  },
+  {
+    "name": "Situational Judgement Test",
+    "test_type": "S",
+    "level": "All",
+    "skills": [
+      "situational judgement",
+      "workplace judgement",
+      "decision making"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "customer service"
+    ],
+    "description": "assessing judgement in realistic workplace scenarios.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test/"
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "test_type": "A",
+    "level": "Graduate",
+    "skills": [
+      "graduate",
+      "cognitive",
+      "potential",
+      "reasoning"
+    ],
+    "job_families": [
+      "graduate",
+      "early careers"
+    ],
+    "description": "screening graduate candidates for core ability and potential.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/"
+  },
+  {
+    "name": "Sales Assessment",
+    "test_type": "S",
+    "level": "All",
+    "skills": [
+      "sales",
+      "persuasion",
+      "customer",
+      "business development"
+    ],
+    "job_families": [
+      "sales",
+      "commercial"
+    ],
+    "description": "assessing sales judgement and behaviors for commercial roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-assessment/"
+  },
+  {
+    "name": "Customer Service Assessment",
+    "test_type": "S",
+    "level": "All",
+    "skills": [
+      "customer service",
+      "support",
+      "communication",
+      "service"
+    ],
+    "job_families": [
+      "customer service",
+      "support",
+      "contact centre"
+    ],
+    "description": "measuring customer-focused judgement and service behavior.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-assessment/"
+  },
+  {
+    "name": "Contact Center Simulation",
+    "test_type": "S",
+    "level": "All",
+    "skills": [
+      "contact center",
+      "call center",
+      "customer support",
+      "communication"
+    ],
+    "job_families": [
+      "customer service",
+      "support"
+    ],
+    "description": "simulating customer contact situations for support hiring.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-simulation/"
+  },
+  {
+    "name": "Leadership Assessment",
+    "test_type": "P",
+    "level": "Manager",
+    "skills": [
+      "leadership",
+      "management",
+      "stakeholder",
+      "people management"
+    ],
+    "job_families": [
+      "management",
+      "leadership"
+    ],
+    "description": "evaluating leadership behaviors, style, and management potential.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment/"
+  },
+  {
+    "name": "Management Scenarios",
+    "test_type": "S",
+    "level": "Manager",
+    "skills": [
+      "management",
+      "judgement",
+      "stakeholder",
+      "decision making"
+    ],
+    "job_families": [
+      "management",
+      "leadership"
+    ],
+    "description": "assessing judgement in manager-level workplace situations.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/"
+  },
+  {
+    "name": "Business Communication",
+    "test_type": "K",
+    "level": "All",
+    "skills": [
+      "communication",
+      "writing",
+      "professional communication"
+    ],
+    "job_families": [
+      "all",
+      "professional",
+      "customer service"
+    ],
+    "description": "checking practical business communication knowledge.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication/"
+  },
+  {
+    "name": "Microsoft Excel (New)",
+    "test_type": "K",
+    "level": "All",
+    "skills": [
+      "excel",
+      "spreadsheet",
+      "data",
+      "analysis"
+    ],
+    "job_families": [
+      "finance",
+      "analyst",
+      "operations"
+    ],
+    "description": "measuring spreadsheet and Excel knowledge for business roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel/"
+  },
+  {
+    "name": "Data Entry",
+    "test_type": "K",
+    "level": "Entry",
+    "skills": [
+      "data entry",
+      "accuracy",
+      "clerical",
+      "attention to detail"
+    ],
+    "job_families": [
+      "administration",
+      "operations"
+    ],
+    "description": "assessing accuracy and speed for data entry work.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry/"
+  },
+  {
+    "name": "Attention to Detail",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "attention to detail",
+      "accuracy",
+      "checking"
+    ],
+    "job_families": [
+      "operations",
+      "administration",
+      "finance"
+    ],
+    "description": "measuring careful checking and error detection ability.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail/"
+  },
+  {
+    "name": "Data Science",
+    "test_type": "K",
+    "level": "Mid",
+    "skills": [
+      "data science",
+      "statistics",
+      "machine learning",
+      "python"
+    ],
+    "job_families": [
+      "data",
+      "technology",
+      "analyst"
+    ],
+    "description": "assessing applied data science and analytics knowledge.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science/"
+  },
+  {
+    "name": "Software Engineering Aptitude",
+    "test_type": "A",
+    "level": "All",
+    "skills": [
+      "software engineering",
+      "logic",
+      "problem solving",
+      "coding aptitude"
+    ],
+    "job_families": [
+      "technology",
+      "developer",
+      "engineer"
+    ],
+    "description": "measuring problem-solving aptitude for software engineering roles.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/software-engineering-aptitude/"
+  },
+  {
+    "name": "Agile Software Development",
+    "test_type": "K",
+    "level": "All",
+    "skills": [
+      "agile",
+      "scrum",
+      "software development",
+      "stakeholder"
+    ],
+    "job_families": [
+      "technology",
+      "product",
+      "developer"
+    ],
+    "description": "checking knowledge of agile development practices and collaboration.",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/"
+  }
+]
